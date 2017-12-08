@@ -3,7 +3,7 @@
   Plugin Name: Find And Replace content for WordPress
   Plugin URI: https://wordpress.org/plugins/Find-And-Replace/
   Description: This plugin is use for content replacement in easy way by finding it in posts and pages and replace it.
-  Version: 1.1
+  Version: 2.0
   Author: Janki Moradiya
   Author URI: https://profiles.wordpress.org/jankimoradiya
 */
